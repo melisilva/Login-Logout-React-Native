@@ -1,2 +1,2 @@
-# Todo-List-React-native
-Creating a todo list app to learn a bit about react native 
+# Login and Logout React-native
+Creating an app that allows you to login and logout using react native and firebase
